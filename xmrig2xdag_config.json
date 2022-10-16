@@ -1,0 +1,8 @@
+{
+    "strport": 43312,
+    "url": "stratum.xdag.org:13656",
+    "tls": false,
+    "debug": false,
+    "testnet": false,
+    "socks5": ""
+}
